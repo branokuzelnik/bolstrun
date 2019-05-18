@@ -300,9 +300,8 @@ a.red {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
   position: relative;
   margin: auto;
+  width: 100%;
   max-width: 500px;
   padding: 0 20px; }
