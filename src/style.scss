@@ -34,7 +34,11 @@ body {
 }
 @media only screen and (max-width: 800px) {
 
-    .h3 {height: 800px;}
+    .h3 {height: 800px;
+        .row {
+            margin: 0;
+        }
+    }
     .h4 {
         height: 900px;
         @media only screen and (max-width: 400px) {
