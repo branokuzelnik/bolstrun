@@ -7,7 +7,6 @@ $gray-bg: #e6e7e8;
 html,body {
     padding: 0;
     margin: 0;
-    
     width: 100%;
     height: 100%;
 }
@@ -249,4 +248,8 @@ a.red {
     width: 100%;
     max-width: 500px;
     padding: 0 20px;
+}
+
+.gray {
+    color: gray;
 }
